@@ -44,17 +44,20 @@ Deep dive into product quality and material waste.
 
 ### 5️⃣ Cost & Variance Analysis
 Focuses on financial integrity by comparing budget vs. reality.
-![Cost Analysis](./images/cost.png)
+<img width="1307" height="735" alt="Screenshot 2026-04-15 154201" src="https://github.com/user-attachments/assets/17cb42b8-68ea-4333-bc5e-f8bd025adb0e" />
+
 * **Unit Economics:** Tracks "Cost Per Unit" by factory to identify the most cost-efficient hubs.
 
 ### 6️⃣ Region & Channel Distribution
 Analyzes how products flow through different markets and sales channels.
-![Region and Channel](./images/region.png)
+<img width="1302" height="767" alt="Screenshot 2026-04-15 155002" src="https://github.com/user-attachments/assets/8cd962c5-cbc8-4c47-bedb-d495696e740b" />
+
 * **Geography:** APAC identified as the leading region with 3.25M good units.
 
 ### 7️⃣ Supplier Performance Matrix
 Evaluates the reliability of raw material and component providers.
-![Supplier Performance](./images/supplier.png)
+<img width="1309" height="739" alt="Screenshot 2026-04-15 155057" src="https://github.com/user-attachments/assets/9aee3821-a2ed-49fe-af60-85dee4997e03" />
+
 * **Visual Indicators:** KPI icons for instant identification of underperforming suppliers.
 
 ---
@@ -73,5 +76,5 @@ Evaluates the reliability of raw material and component providers.
 4. Interact with Slicers (Year, Region, Country) to filter data dynamically.
 
 ---
-**Author:** Vrushabh Dhawade  
+**Author:** Ritik Dhawade  
 **Role:** Aspiring Data Analyst | Power BI & SQL Enthusiast
